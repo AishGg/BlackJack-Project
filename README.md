@@ -43,6 +43,9 @@ How to Play
 Contributors
 
     Rupin Munjal
+    Ashish Garg
+    Yog Patel
+    Sumit Jindal
 
 License
 
