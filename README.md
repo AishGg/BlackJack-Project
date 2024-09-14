@@ -17,16 +17,6 @@ Technologies Used
     CSS3 for styling and responsiveness
     JavaScript for the game logic and interactivity
 
-Getting Started
-
-    Clone the repository:
-
-    bash
-
-    git clone https://github.com/your-username/BlackJack-Project.git
-
-    Open index.html in your browser to start playing the game locally.
-
 Game Rules
 
     The goal is to beat the dealer by getting a hand value as close to 21 as possible without exceeding it.
